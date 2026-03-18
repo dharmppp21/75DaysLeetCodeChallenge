@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharmppp21/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/dharmppp21/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -13,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharmppp21/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/dharmppp21/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dharmppp21/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0904-fruit-into-baskets](https://github.com/dharmppp21/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
